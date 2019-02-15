@@ -1,0 +1,14 @@
+body{
+    background-color: cadetblue;
+    color: white;
+}
+.jumbotron{
+    background-image: 
+    url(https://cdn2.vectorstock.com/i/1000x1000/98/86/flyer-template-header-design-vector-3709886.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    background: #888;
+    color: aliceblue;
+}
